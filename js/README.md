@@ -25,3 +25,5 @@ SVOLGIMENTO
 1. creare un funzione per vedere se la parola e palindroma
 2. chiedere allo user un parola a sua scelta
 3. tramiteun if dire se la parola e plaindroma o no
+
+esercizzio pari o dispari
